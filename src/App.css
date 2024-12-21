@@ -1,0 +1,15 @@
+body {
+  /* background-image: url("./assets/Images/landing/backgroundPattern.png"); */
+  background-color: rgb(255, 245, 234);
+  /* background-position: right; */
+  background-repeat: space;
+  height: 100%;
+  width: 100%;
+  min-height: 100vh;
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
